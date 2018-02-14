@@ -1,2 +1,2 @@
-# Bioinformatics-Basic-Algorithms
+# BioinformaticsBasicAlgorithms
 Practical component of university masters subject.
