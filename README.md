@@ -1,2 +1,2 @@
-# Smith-Waterman-in-java
-Practical component of university masters subject
+# Bioinformatics-Basic-Algorithms
+Practical component of university masters subject.
